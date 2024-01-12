@@ -1,4 +1,4 @@
-# Goodies For Devs
+# Recursos para Desarrolladores Front End
 
 Repositorio que intenta **acumular** una lista de temas y recursos para
 desarrolladores y codificadores **autodidactas**, o que quieren aprender algo
