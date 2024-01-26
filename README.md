@@ -2,7 +2,7 @@
 
 Repositorio que intenta **acumular** una lista de temas y recursos para
 desarrolladores y codificadores **autodidactas**, o que quieren aprender algo
-nuevo, que de cierta manera no la verás en la Universidad.
+nuevo, que de cierta manera no la verás en la Universidad..
 
 > Puede tener ciertos ó muchos **horrores** de ortografía, porfis ayudame corrigiendo eso
 
